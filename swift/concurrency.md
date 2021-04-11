@@ -1,0 +1,1 @@
+[Parallel for-loops in Swift](https://www.advancedswift.com/parallel-for-loops-in-swift/)
