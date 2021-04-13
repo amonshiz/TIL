@@ -1,0 +1,1 @@
+[core data custom property wrappers](https://davedelong.com/blog/2021/04/03/core-data-and-swiftui/)
