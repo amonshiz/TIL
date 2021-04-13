@@ -1,0 +1,1 @@
+[implementing swift numerics](https://www.fast.ai/2019/01/10/swift-numerics/)
