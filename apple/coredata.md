@@ -1,0 +1,1 @@
+[Core Data Queries Using Expressions](https://useyourloaf.com/blog/core-data-queries-using-expressions/)
