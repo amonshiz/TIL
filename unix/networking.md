@@ -1,0 +1,1 @@
+- [setup ddclient](https://samhobbs.co.uk/2015/01/dynamic-dns-ddclient-raspberry-pi-and-ubuntu)
